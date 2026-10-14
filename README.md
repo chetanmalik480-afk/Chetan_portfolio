@@ -1,0 +1,1 @@
+This is my personal portfolio website, built with HTML5 and CSS3. It introduces me and presents my education, technical skills, projects, and contact links. The layout adapts to desktop and mobile screens. I checked the navigation and page layout in a browser and included desktop and mobile screenshots.
